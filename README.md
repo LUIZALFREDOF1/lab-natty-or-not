@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## Titulo
+Bebe Sniper
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+usamos como referencia uma boneca para criar uma cena de um sniper em posicao de ataque 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizada para confeccao da imagem a ferramenta Nano Banana do Google Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+atraves de um simples prompt descrevendo o cenario e posicionamento de cena, obtivemos a imagem com  resultado espetacular
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Bombom G.pdf](https://github.com/user-attachments/files/23012364/Bombom.G.pdf)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+é um prazer e um desafio manter se atualizado com as novas tecnologias de ponta
 ```
 
 ### Exemplos e Insigths
